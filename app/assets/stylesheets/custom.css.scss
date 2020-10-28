@@ -3,3 +3,8 @@
 .chatbox {
     height: 850px;
 }
+
+#messages {
+    overflow: auto;
+    height: 15em;
+}
